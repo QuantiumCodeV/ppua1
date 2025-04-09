@@ -1,0 +1,20 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="arrow-right-circle">
+<path id="Vector" d="M12.5 22C18.0228 22 22.5 17.5228 22.5 12C22.5 6.47715 18.0228 2 12.5 2C6.97715 2 2.5 6.47715 2.5 12C2.5 17.5228 6.97715 22 12.5 22Z" stroke="#673AB7" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Mask group">
+<mask id="mask0_1796_138246" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="23" height="22">
+<g id="Vector_2">
+<path d="M12.5 22C18.0228 22 22.5 17.5228 22.5 12C22.5 6.47715 18.0228 2 12.5 2C6.97715 2 2.5 6.47715 2.5 12C2.5 17.5228 6.97715 22 12.5 22Z" fill="#D9D9D9"/>
+<path d="M12.5 22C18.0228 22 22.5 17.5228 22.5 12C22.5 6.47715 18.0228 2 12.5 2C6.97715 2 2.5 6.47715 2.5 12C2.5 17.5228 6.97715 22 12.5 22Z" stroke="white" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.5 22C18.0228 22 22.5 17.5228 22.5 12C22.5 6.47715 18.0228 2 12.5 2C6.97715 2 2.5 6.47715 2.5 12C2.5 17.5228 6.97715 22 12.5 22Z" stroke="white" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</mask>
+<g mask="url(#mask0_1796_138246)">
+<g id="Group 40940">
+<path id="Vector_3" d="M12.5 16L16.5 12L12.5 8" stroke="#673AB7" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M8.5 12H16.5" stroke="#673AB7" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

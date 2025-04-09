@@ -1,0 +1,1 @@
+function getTimeZoneWithFallback(){var e=Intl.DateTimeFormat().resolvedOptions().timeZone;return e||"America/Los_Angeles"}

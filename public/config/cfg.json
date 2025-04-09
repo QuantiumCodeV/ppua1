@@ -1,0 +1,13 @@
+{
+  "pumbleStartUrl": "/start",
+  "pumbleApiEndpoint": "/api",
+  "pumbleAppDomain": "/app",
+  "pumbleWebsiteDomain": "",
+  "pumbleJoinDomain": "",
+  "cakeMarketplaceDomain": "/marketplace",
+  "cakeApiEndpoint": "/cakeApi/",
+  "analyticsEnabled": true,
+  "fpAffiliateEnabled": true,
+  "waitForMigrationAfterWorkspaceCreation": true,
+  "checkForCakeSsoOnLogin": true
+}
