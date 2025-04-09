@@ -16,7 +16,7 @@
 
     <link rel="alternate" hreflang="de" href="de/feature-list.html" />
     <link rel="alternate" hreflang="x-default" href="feature-list.html" />
-    <title>Features - Pumble™</title>
+    <title>Features - Aerix™</title>
     <!-- JSON-LD Schema -->
     <script type="application/ld+json">
       {
@@ -155,7 +155,7 @@
     />
     <meta name="application-name" content="Pumble" />
     <!-- Schema.org for Google -->
-    <meta itemprop="name" content="Features - Pumble™" />
+    <meta itemprop="name" content="Features - Aerix™" />
     <meta
       itemprop="description"
       content="Pumble features help teams collaborate more effectively. Keep organized, share knowledge, and quickly find what you need to do your job."

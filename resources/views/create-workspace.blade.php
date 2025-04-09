@@ -11,7 +11,7 @@
     name="viewport"
     content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <title>Pumble™ - Login</title>
+  <title>Aerix™ - Login</title>
   <!-- for Google -->
   <meta
     name="description"
@@ -21,7 +21,7 @@
     content="https://pumble.com/assets/images/pumble-og.png" />
   <meta name="application-name" content="Pumble" />
   <!-- Schema.org for Google -->
-  <meta itemprop="name" content="Pumble™ - Login" />
+  <meta itemprop="name" content="Aerix™ - Login" />
   <meta
     itemprop="description"
     content="Log in to Pumble - Free Chat &amp; Collaboration App for Teams" />
@@ -29,7 +29,7 @@
     itemprop="image"
     content="https://pumble.com/assets/images/pumble-og.png" />
   <!-- for Facebook -->
-  <meta property="og:title" content="Pumble™ - Login" />
+  <meta property="og:title" content="Aerix™ - Login" />
   <meta
     property="og:description"
     content="Log in to Pumble - Free Chat &amp; Collaboration App for Teams" />

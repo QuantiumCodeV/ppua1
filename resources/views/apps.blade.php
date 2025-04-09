@@ -39,7 +39,7 @@
     
     <link rel="alternate" hreflang="de" href="de/apps.html"/>
     <link rel="alternate" hreflang="x-default" href="apps.html"/>
-    <title>Apps - Pumble™</title>
+    <title>Apps - Aerix™</title>
     <!-- JSON-LD Schema -->
     <script type="application/ld+json">
     {
@@ -172,7 +172,7 @@
     <meta name="image" content="https://pumble.com/assets/images/pumble-og.png">
     <meta name="application-name" content="Pumble" />
     <!-- Schema.org for Google -->
-    <meta itemprop="name" content="Apps - Pumble™">
+    <meta itemprop="name" content="Apps - Aerix™">
     <meta itemprop="description" content="Download Pumble to collaborate with your team from any device. Team chat apps for iOS, Android, Desktop and Web.">
     <meta itemprop="image" content="https://pumble.com/assets/images/pumble-og.png">
     <!-- for Facebook -->

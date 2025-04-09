@@ -19,7 +19,7 @@
     name="viewport"
     content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <title>Pumble™ - Verification</title>
+  <title>Aerix™ - Verification</title>
   <!-- for Google -->
   <meta
     name="description"
@@ -29,7 +29,7 @@
     content="https://pumble.com/assets/images/pumble-og.png" />
   <meta name="application-name" content="Pumble" />
   <!-- Schema.org for Google -->
-  <meta itemprop="name" content="Pumble™ - Verification" />
+  <meta itemprop="name" content="Aerix™ - Verification" />
   <meta
     itemprop="description"
     content="Pumble Verification - Free Chat &amp; Collaboration App for Teams" />
@@ -37,7 +37,7 @@
     itemprop="image"
     content="https://pumble.com/assets/images/pumble-og.png" />
   <!-- for Facebook -->
-  <meta property="og:title" content="Pumble™ - Verification" />
+  <meta property="og:title" content="Aerix™ - Verification" />
   <meta
     property="og:description"
     content="Pumble Verification - Free Chat &amp; Collaboration App for Teams" />
